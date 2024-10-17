@@ -1,0 +1,35 @@
+---
+title: Treasure of Talpin
+layout: default
+modal-id: 1
+date: 2024-10-12
+img: cover.jpeg
+alt: image-alt
+description: 
+---
+
+<div style="border: 2px solid #{{ site.color.primary }}; padding: 20px; margin-top: 20px; background-color: #f9f9f9; text-align: center;">
+    <p style="font-weight: bold; font-size: 1.25em;">
+        Excited to announce that my novel-in-progress <em>Treasure of Talpin</em> is close to completion. Sign up for updates, exclusive artwork, and bonus content as I prepare for its 2025 release.
+    </p>
+    <p style="font-size: 1.25em; color: #{{ site.color.primary }};">
+        Don’t wait. <strong>Book Your Trip to Talpin today!</strong>
+    </p>
+</div>
+
+### Because Life Begins after Level 17 … right?
+
+Teal Peggotty’s got it made. He’s mastered his aquatic magic—more or less—survived a series of death-defying adventures, and been handsomely rewarded for his troubles. Plus, he’s over the moons about his relationship with longtime crush Caedmon, a dreamy bard he’s known since childhood. 
+
+Hence, a vacation to their native Talpin looks like the perfect chance to exit their high-stakes, high-pressure lifestyle: why not quit while you’re ahead?
+
+But is Talpin really the idyll Teal remembers? Going home means he has to figure out how to come out to his family and explain his unfinished studies to his mentors. And even after all his adventuring, he’s no wiser about the source of his elemental powers.
+
+Besides, pushed to modernize by an enterprising group of business owners, the once-sleepy island is changing, too. As ambitions collide, new alliances beckon, and old secrets surface, Teal’s relationship with Caedmon is tested by the complexities of living in a diverse, evolving community.
+
+Have they escaped the perils of adventuring only to find an equally daunting—and no less complicated—set of challenges at home?
+
+When the situation escalates, debate devolves into a dangerous struggle over Talpin’s most fiercely guarded treasure: the Crystal of Mekhala. Holding a clue to Teal’s origins, the crystal also unleashes a destructive side to his power that could threaten the very existence of the island.
+
+Even if they manage to work out their personal issues in time, can Teal and Caedmon prevent an ancient cycle of betrayal and retribution from repeating itself? 
+

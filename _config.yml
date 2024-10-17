@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Paul L. Yeoh
+email: paul@paullyeoh.com
+url: https://github.com/paullyeoh/paullyeoh.github.io
+description: "Website for author and content creator Paul L. Yeoh."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Writer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,38 +25,29 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 008080 #80B3FF
+  primary-rgb: "0,128,128" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Paul L. Yeoh
+  social: Find me on the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - title: instagram
+    url: https://www.instagram.com/paullyeoh/
+  - title: linkedin
+    url: https://www.linkedin.com/in/paul-yeoh-932950186/
+  - title: envelope
+    url: mailto:mailto:paul@paullyeoh.com
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:  Page created with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/jeromelachaud/freelancer-theme" target="_blank">Freelancer Jekyll Theme</a>
 
 # Build settings
 markdown: kramdown
