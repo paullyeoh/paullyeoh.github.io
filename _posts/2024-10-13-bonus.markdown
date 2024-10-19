@@ -11,6 +11,6 @@ description:
 <div style="font-size: 1.5em">
 From Caedmon’s leather satchel: a prize-winning school-essay written by the 16-year-old Teal. When Caedmon asked to read it, Teal was thrilled; he mailed the essay to his friend and was a little disappointed when Caedmon never mentioned the essay again. But Caedmon did read it, and he kept the yellowing sheet as a memento of his friend.<br>
 
-<a href="/bonus/letter.html" target="_blank">Read Teal's school essay, "My best friend Caedmon", here.</a>
+<a href="/bonus/essay.html" target="_blank">Read Teal's school essay, "My best friend Caedmon", here.</a>
 </div>
 {% endraw %}
