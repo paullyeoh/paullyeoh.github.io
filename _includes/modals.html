@@ -15,8 +15,9 @@
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
             <!-- Post Image -->
+	    {% unless post.img == "pom.jpeg" or post.img == "cake.jpeg" %}
             <img src="img/portfolio/{{ post.img }}" style="width: 60%; height: auto;" class="img-responsive img-centered" alt="{{ post.alt }}">
-            
+             {% endunless %}
             <!-- Post Description -->
             {% if post.description %}
             <p>{{ post.description }}</p>

@@ -7,10 +7,23 @@ alt: image-alt
 description:
 ---
 
-{% raw %}
-<div style="font-size: 1.5em">
+<div style="border: 2px solid #{{ site.color.primary }}; padding: 20px; margin-top: 20px; background-color: #f9f9f9; text-align: center;">
+    <p style="font-weight: bold; font-size: 1.25em;">
+    A selection of short stories and other literary artifacts that provide additional glimpses into the worlds and lives of my characters.
+    </p>
+</div>
+
+<br>
+<h4>
+<a href="/bonus/essay.html" target="_blank">Teal's school essay, "My best friend Caedmon"</a>
+</h4>
 From Caedmon’s leather satchel: a prize-winning school-essay written by the 16-year-old Teal. When Caedmon asked to read it, Teal was thrilled; he mailed the essay to his friend and was a little disappointed when Caedmon never mentioned the essay again. But Caedmon did read it, and he kept the yellowing sheet as a memento of his friend.<br>
 
-<a href="/bonus/essay.html" target="_blank">Read Teal's school essay, "My best friend Caedmon", here.</a>
-</div>
-{% endraw %}
+<hr style="border: 1.5px solid #{{ site.color.primary }};">
+
+<h4>
+<a href="/bonus/journal_entry1.html" target="_blank"><em>Ferryman's log</em>, entry #1 </a>
+</h4>
+Teal learned to channel his elemental magic at the Tangled Depths, a venerable institution that rises out of the ocean about three miles away from Talpin. As part of its curriculum, the Tangled Depths requires every student to undertake a practicum known as the Journey of Self-Formation, often involving an attachment to a settlement or organization on the mainland. 
+
+For his Journey, Teal traveled to the Glade, a small outpost at the northernmost boundary of the queendom, where he apprenticed himself to one Uriah Styx, the village’s lockkeeper and ferryman (hence the title of Teal’s journal, <em>The Ferryman’s Log</em>). It was during this apprenticeship that Teal met a motley crew of adventurers who eventually became his close friends and traveling companions. In his first journal entry, Teal reflects on an encounter with bandits, which occurs while the party is traveling downriver by boat. 
