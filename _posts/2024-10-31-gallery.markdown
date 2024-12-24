@@ -47,7 +47,12 @@ Years ago, when I first sat down to imagine Teal, I quickly found you can’t in
 ">
       <img src="img/gallery/talpinByDay.jpg" alt="Image 2" class="thumbnail" loading="lazy">
     </a>
-    <!-- Add more images as needed -->
+    <a href="img/gallery/talpin_christmas.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Talpin Christmas</em> (2024).</b> Somewhere in the syncretic world of fantasy, Yuletide is celebrated! And if they ever discovered Christmas, Caed and Teal would be right there with the mistletoe and mulled wine. To evoke the spirit of the holidays, digital artist Hyanide kindly agreed to gussy up her original painting of Teal and Caedmon—we hope you enjoy it. The talented Romanian artist has been hard at work on a series of paintings based on the novel—look out for these in the new year!">
+    <img src="img/gallery/talpin_christmas.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+    </a>
+    <a href="img/gallery/arklan_comic_cover.jpg" data-fancybox="gallery" data-caption="<b>Christine Toh, Mysteries of Arklan Homebrew Campaign (2024). </b> A comic book style portrait reflecting the overall trajectory of the D&D campaign in which Teal and Caedmon first appeared. My good friend Chrys Toh is not only an excellent D&D player and part of the campaign throughout, but also an amazing digital artist.">
+    <img src="img/gallery/arklan_comic_cover.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+    </a>
   </div>
 
   <!-- Fancybox JS -->

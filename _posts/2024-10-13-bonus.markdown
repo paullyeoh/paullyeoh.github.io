@@ -26,4 +26,12 @@ From Caedmon’s leather satchel: a prize-winning school-essay written by the 16
 </h4>
 Teal learned to channel his elemental magic at the Tangled Depths, a venerable institution that rises out of the ocean about three miles away from Talpin. As part of its curriculum, the Tangled Depths requires every student to undertake a practicum known as the Journey of Self-Formation, often involving an attachment to a settlement or organization on the mainland. 
 
-For his Journey, Teal traveled to the Glade, a small outpost at the northernmost boundary of the queendom, where he apprenticed himself to one Uriah Styx, the village’s lockkeeper and ferryman (hence the title of Teal’s journal, <em>The Ferryman’s Log</em>). It was during this apprenticeship that Teal met a motley crew of adventurers who eventually became his close friends and traveling companions. In his first journal entry, Teal reflects on an encounter with bandits, which occurs while the party is traveling downriver by boat. 
+For his Journey, Teal traveled to the Glade, a small outpost at the northernmost boundary of the queendom, where he apprenticed himself to one Uriah Styx, the village’s lockkeeper and ferryman (hence the title of Teal’s journal, <em>The Ferryman’s Log</em>). It was during this apprenticeship that Teal met a motley crew of adventurers who eventually became his close friends and traveling companions. In his first journal entry, Teal reflects on an encounter with bandits, which occurs while the party is traveling downriver by boat.
+
+<hr style="border: 1.5px solid #{{ site.color.primary }};">
+<h4>
+<a href="/bonus/crypt_of_blood.pdf" target="_blank">"The Crypt of Blood"</a>
+</h4>
+
+A cozy-ish, YA fantasy rendition of the dungeon crawl, a beloved sequence in D&D in which adventurers explore a labyrinthine environment while battling monsters and hunting for loot. Teal and his friends stumble across a mysterious crypt literally dripping in blood&ndash;will they risk everything for the promise of treasure or GTFO while they still can?
+
