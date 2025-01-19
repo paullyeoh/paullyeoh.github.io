@@ -19,40 +19,49 @@ description:
       gap: 10px;
     }
 
-    .thumbnail {
-      width: 100%; /* Fill the grid column */
-      aspect-ratio: 1 / 1; /* Enforce a square shape */
-      object-fit: cover; /* Crop the image to fit */
-      cursor: pointer;
-      transition: transform 0.2s ease;
-    }
+.thumbnail {
+width: 100%; /* Fill the grid column */
+aspect-ratio: 1 / 1; /* Enforce a square shape */
+object-fit: cover; /* Crop the image to fit */
+cursor: pointer;
+transition: transform 0.2s ease;
+}
 
-    .thumbnail:hover {
-      transform: scale(1.05);
-    }
+.thumbnail:hover {
+transform: scale(1.05);
+}
 
-    /* Optional close button customization */
-    .fancybox__close {
-      font-size: 24px;
-      color: white;
-    }
-  </style>
+/* Optional close button customization */
+.fancybox__close {
+font-size: 24px;
+color: white;
+}
+</style>
 
-  <div class="gallery-grid">
-    <a href="img/gallery/originalDnDParty.jpg" data-fancybox="gallery" data-caption="<b>Katie Fletcher, <em>Original Party Portrait</em> (2019). </b>One of the most exciting aspects of D&D is the way imaginative activity inspires yet more imagining. Never was the self-fueling nature of collective storytelling clearer to me than in the fall of 2019, when DM Matt Hale’s imaginative powers inspired the entire group to engage in a range of creative activities. Not only did we participate in communal storytelling at the gaming table, outside of sessions people were writing, drawing—even composing music—to flesh out our shared fictional world. To illustrate, here is the very first portrait of the party, by Katie Fletcher (2019). Her simple yet charming digital illustration captures both the colorful individuality and the innocence of our level-1 characters (from left: Travis, Wynlynn, Val, Teal, Pantaghion, Agenar, and Tilia).">
-      <img src="img/gallery/originalDnDParty.jpg" alt="Image 1" class="thumbnail" loading="lazy">
-    </a>
-    <a href="img/gallery/talpinByDay.jpg" data-fancybox="gallery" data-caption="<b>Janith Tharaka, <em>Talpin City on a Clear Afternoon</em> (2024).</b>
+<div class="gallery-grid">
+<a href="img/gallery/originalDnDParty.jpg" data-fancybox="gallery" data-caption="<b>Katie Fletcher, <em>Original Party Portrait</em> (2019). </b>One of the most exciting aspects of D&D is the way imaginative activity inspires yet more imagining. Never was the self-fueling nature of collective storytelling clearer to me than in the fall of 2019, when DM Matt Hale’s imaginative powers inspired the entire group to engage in a range of creative activities. Not only did we participate in communal storytelling at the gaming table, outside of sessions people were writing, drawing—even composing music—to flesh out our shared fictional world. To illustrate, here is the very first portrait of the party, by Katie Fletcher (2019). Her simple yet charming digital illustration captures both the colorful individuality and the innocence of our level-1 characters (from left: Travis, Wynlynn, Val, Teal, Pantaghion, Agenar, and Tilia).">
+<img src="img/gallery/originalDnDParty.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+</a>
+<a href="img/gallery/talpinByDay.jpg" data-fancybox="gallery" data-caption="<b>Janith Tharaka, <em>Talpin City on a Clear Afternoon</em> (2024).</b>
 Years ago, when I first sat down to imagine Teal, I quickly found you can’t invent a person without a place. And so the Island of Talpin came into being. At first little more than an assemblage of facts to explain Teal’s backstory, the island became more concrete over the course of the D&D campaign, but the characters never made it to Teal’s island home. Only after the campaign ended, when I embarked on my post-adventure story, did I sit down with DM Matt to work out the island’s topography and the layout of its town. Over the last two years, I thought I’d become thoroughly familiar with Talpin. Still, when Sri Lankan digital artist Janith Tharaka rendered a view of Talpin based on passages from the novel, it was not only a homecoming, but also like seeing the island for the first time.
 ">
-      <img src="img/gallery/talpinByDay.jpg" alt="Image 2" class="thumbnail" loading="lazy">
-    </a>
-    <a href="img/gallery/talpin_christmas.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Talpin Christmas</em> (2024).</b> Somewhere in the syncretic world of fantasy, Yuletide is celebrated! And if they ever discovered Christmas, Caed and Teal would be right there with the mistletoe and mulled wine. To evoke the spirit of the holidays, digital artist Hyanide kindly agreed to gussy up her original painting of Teal and Caedmon—we hope you enjoy it. The talented Romanian artist has been hard at work on a series of paintings based on the novel—look out for these in the new year!">
-    <img src="img/gallery/talpin_christmas.jpg" alt="Image 1" class="thumbnail" loading="lazy">
-    </a>
-    <a href="img/gallery/arklan_comic_cover.jpg" data-fancybox="gallery" data-caption="<b>Christine Toh, Mysteries of Arklan Homebrew Campaign (2024). </b> A comic book style portrait reflecting the overall trajectory of the D&D campaign in which Teal and Caedmon first appeared. My good friend Chrys Toh is not only an excellent D&D player and part of the campaign throughout, but also an amazing digital artist.">
+<img src="img/gallery/talpinByDay.jpg" alt="Image 2" class="thumbnail" loading="lazy">
+</a>
+<a href="img/gallery/talpin_christmas.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Talpin Christmas</em> (2024).</b> Somewhere in the syncretic world of fantasy, Yuletide is celebrated! And if they ever discovered Christmas, Caed and Teal would be right there with the mistletoe and mulled wine. To evoke the spirit of the holidays, digital artist Hyanide kindly agreed to gussy up her original painting of Teal and Caedmon—we hope you enjoy it. The talented Romanian artist has been hard at work on a series of paintings based on the novel—look out for these in the new year!">
+<img src="img/gallery/talpin_christmas.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+</a>
+<a href="img/gallery/arklan_comic_cover.jpg" data-fancybox="gallery" data-caption="<b>Christine Toh, <em>Mysteries of Arklan Homebrew Campaign</em> (2024). </b> A comic book style portrait reflecting the overall trajectory of the D&D campaign in which Teal and Caedmon first appeared. My good friend Chrys Toh is not only an excellent D&D player and part of the campaign throughout, but also an amazing digital artist.">
     <img src="img/gallery/arklan_comic_cover.jpg" alt="Image 1" class="thumbnail" loading="lazy">
-    </a>
+</a>
+<a href="img/gallery/arklan_comic_cover.jpg" data-fancybox="gallery" data-caption="<b>Christine Toh, <em>Mysteries of Arklan Homebrew Campaign</em> (2024). </b> A comic book style portrait reflecting the overall trajectory of the D&D campaign in which Teal and Caedmon first appeared. My good friend Chrys Toh is not only an excellent D&D player and part of the campaign throughout, but also an amazing digital artist.">
+    <img src="img/gallery/arklan_comic_cover.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+</a>
+
+<a href="img/gallery/hooky_at_home.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Hooky at Home</em> (2024).</b> A portrait in honor of Hooky, a brand new character (no pre-existence as a D&D PC) and out-and-proud trans man. One of the truths that motivates me to write is that we need to make the art we want to experience. I want to read more novels in which LGBTQ+ characters get to play meaningful, important roles&ndash;without necessarily having their sexuality or gender identity become the dominant focus of the story. It’s tricky writing an identifiably gay or trans character who nevertheless resists being stuck in a coming out/living out narrative&ndash;but I hope I’ve managed to achieve something of that balance with Hooky.
+">
+<img src="img/gallery/hooky_at_home.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+</a>
+
   </div>
 
   <!-- Fancybox JS -->

@@ -35,3 +35,10 @@ For his Journey, Teal traveled to the Glade, a small outpost at the northernmost
 
 A cozy-ish, YA fantasy rendition of the dungeon crawl, a beloved sequence in D&D in which adventurers explore a labyrinthine environment while battling monsters and hunting for loot. Teal and his friends stumble across a mysterious crypt literally dripping in blood&ndash;will they risk everything for the promise of treasure or GTFO while they still can?
 
+<hr style="border: 1.5px solid #{{ site.color.primary }};">
+<h4>
+<a href="https://medium.com/@paullyeoh/teal-in-the-city-3e95aa532538" target="_blank"><em>Ferryman’s Log</em>, Entry #2: "Teal in the City"</a>
+</h4>
+
+In many D&D adventures, the city is a labyrinth writ large, full of mystery, danger, and possibility. Recording impressions from his first visit to the royal city of Dranseri, this journal entry captures Teal’s sense of entering a brave new world. At the same time, Dranseri holds the promise of a longed-for reunion for Teal&ndash;and the impossible hope that an old friendship might become something more.
+
