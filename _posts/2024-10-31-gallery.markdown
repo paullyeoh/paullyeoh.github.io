@@ -55,8 +55,13 @@ Years ago, when I first sat down to imagine Teal, I quickly found you can’t in
 </a>
 <a href="img/gallery/hooky_at_home.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Hooky at Home</em> (2024).</b> A portrait in honor of Hooky, a brand new character (no pre-existence as a D&D PC) and out-and-proud trans man. One of the truths that motivates me to write is that we need to make the art we want to experience. I want to read more novels in which LGBTQ+ characters get to play meaningful, important roles&ndash;without necessarily having their sexuality or gender identity become the dominant focus of the story. It’s tricky writing an identifiably gay or trans character who nevertheless resists being stuck in a coming out/living out narrative&ndash;but I hope I’ve managed to achieve something of that balance with Hooky.
 ">
-<img src="img/gallery/hooky_at_home.jpg" alt="Image 1" class="thumbnail" loading="lazy">
+<img src="img/gallery/hooky_at_home.jpg" alt="Hooky at home" class="thumbnail" loading="lazy">
 </a>
+
+<a href="img/gallery/where_the_river_meets_the_sea.jpg" data-fancybox="gallery" data-caption="<b>Paul Yeoh, <em>Where the River Meets the Sea</em> (2025).</b> A portrait celebrating Teal and Caedmon’s first kiss in the eponymous blog entry (since adapted into a standalone short story). While my upcoming novel seeks to move beyond the generic constraints of the classic coming out romance, coming out is still a relevant issue for many people and deserves our attention in literature and in life. I also wanted to share the story of Teal and Caed’s first love because more than ever, it seems important to affirm the innocence&mdash;and inherent goodness&mdash;of love, regardless of sexual orientation or gender identity.">
+<img src="img/gallery/where_the_river_meets_the_sea.jpg" alt="Where the river meets the sea" class="thumbnail" loading="lazy">
+</a>
+
 
   </div>
 

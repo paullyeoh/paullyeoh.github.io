@@ -42,3 +42,9 @@ A cozy-ish, YA fantasy rendition of the dungeon crawl, a beloved sequence in D&D
 
 In many D&D adventures, the city is a labyrinth writ large, full of mystery, danger, and possibility. Recording impressions from his first visit to the royal city of Dranseri, this journal entry captures Teal’s sense of entering a brave new world. At the same time, Dranseri holds the promise of a longed-for reunion for Teal&ndash;and the impossible hope that an old friendship might become something more.
 
+<hr style="border: 1.5px solid #{{ site.color.primary }};">
+<h4>
+<a href="https://medium.com/@paullyeoh/where-the-river-meets-the-sea-f710bdf504ab" target="_blank">"Where the River Meets the Sea"</a>
+</h4>
+
+Briefly reunited in the bustling city of Dranseri, Teal finally comes out about his feelings for Caedmon. How does Caedmon react to this revelation? Can he reciprocate? More importantly, <em>will</em> he?
