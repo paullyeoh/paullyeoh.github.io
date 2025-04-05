@@ -62,6 +62,11 @@ Years ago, when I first sat down to imagine Teal, I quickly found you can’t in
 <img src="img/gallery/where_the_river_meets_the_sea.jpg" alt="Where the river meets the sea" class="thumbnail" loading="lazy">
 </a>
 
+<a href="img/gallery/tangled_depths.jpg" data-fancybox="gallery" data-caption="<b>Janith Tharaka, <em>The Tangled Depths</em> (2024).</b> Camelot. Pemberley. Castle Grayskull. Professor Xavier’s School for Gifted Youngsters. In so many beloved fictional worlds, there’s a place where power and wisdom converge. In Talpin, that place is the Tangled Depths, where an ancient order known as the Sages of the Sea operate both a temple and an institution of higher learning. To complement Janith Tharaka’s magical rendition of the Depths, here’s an excerpt from the novel in which the headmaster, one of its most devoted stewards, gazes admiringly at his school: <q>More than twenty-five years later, he still remembered the sense of awe that hit him as the bulbous dome of the Font came into view, its sparkling blue crystal and sleek lines evoking the vertical column of liquid formed in the moments after a droplet strikes the water’s surface. Varying in size and following fluid curves of their own, the secondary towers spread out like a fantastical watery crown around the central minaret, a titanic splash frozen in time.</q>"> 
+<img src="img/gallery/tangled_depths.jpg" alt="The Tangled Depths" class="thumbnail" loading="lazy">
+</a>
+
+
 
   </div>
 
