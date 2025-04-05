@@ -386,6 +386,20 @@ footer .footer-below {
     line-height: 45px;
 }
 
+.btn-social.btn-outline {
+  color: #ffffff; /* default icon color */
+}
+.btn-social.btn-outline:hover {
+  color: #1185fe; /* color on hover */
+}
+
+.btn-social.btn-outline svg {
+  fill: currentColor !important;
+}
+
+
+
+
 .btn:focus,
 .btn:active,
 .btn.active {
