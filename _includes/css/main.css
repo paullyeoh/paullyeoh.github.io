@@ -390,7 +390,7 @@ footer .footer-below {
   color: #ffffff; /* default icon color */
 }
 .btn-social.btn-outline:hover {
-  color: #1185fe; /* color on hover */
+  color: #008080; /* color on hover */
 }
 
 .btn-social.btn-outline svg {
