@@ -10,7 +10,7 @@ description:
 
 <div style="border: 2px solid #{{ site.color.primary }}; padding: 20px; margin-top: 20px; background-color: #f9f9f9; text-align: center;">
     <p style="font-weight: bold; font-size: 1.25em;">
-        Excited to announce that my novel-in-progress <em>Treasure of Talpin</em> is close to completion. Sign up for updates, exclusive artwork, and bonus content as I prepare for its 2025 release.
+        Excited to announce that the manuscript of <em>Treasure of Talpin</em> is complete. Sign up for updates, exclusive artwork, and bonus content as the novel begins its journey toward publication.
     </p>
     <p style="font-size: 1.25em; color: #{{ site.color.primary }};">
         Don’t wait. <strong>Book Your Trip to Talpin today!</strong>
