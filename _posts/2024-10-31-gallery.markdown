@@ -66,6 +66,10 @@ Years ago, when I first sat down to imagine Teal, I quickly found you can’t in
 <img src="img/gallery/tangled_depths.jpg" alt="The Tangled Depths" class="thumbnail" loading="lazy">
 </a>
 
+<a href="img/gallery/toddy.jpg" data-fancybox="gallery" data-caption="<b>Hyanide, <em>Toddy at the Tipsy Trawler; or, the Work Crush</em> (2024).</b> One theme <em>Talpin</em> explores is how a couple’s relationship exists within a wider network of communal ties&ndash;and how social context can enrich (or erode) romance. Most adults spend a significant amount of their lives working, so it’s not surprising that many of our important relationships develop at work. It is in just such a context&ndash;collaborating with an up-and-coming company to bring AME (ambient magical energy) to Talpin&ndash;that Caedmon meets tough, super smart magitech engineer Poh Ling. With the hectic pace of the project, they end up eating, sleeping, and indulging in pandan-infused toddies together. Spending so much time together&ndash;and becoming so at ease in each other’s company&ndash;is it any wonder that people begin to talk? To learn what complications ensue from Poh Ling and Caedmon’s work crush, you’ll have to read the novel. For now, enjoy the talented Hyanide’s portrait of them drinking at the tavern owned by Teal’s aunt and uncle&ndash;a fitting tribute to friendships born of late nights, shared vision, and mutual professional regard. Rather than posing a threat, friendships like these may ultimately help sustain the romantic ties they so often seem to compete with.">
+<img src="img/gallery/toddy.jpg" alt="Toddy at the Tipsy Trawler" class="thumbnail" loading="lazy">
+</a>
+
 
 
   </div>
